@@ -1,0 +1,21 @@
+py-billing-system/
+├── .github/
+│   └── workflows/
+│       └── python-app.yml
+├── config/
+│   └── config.example.json
+├── src/
+│   ├── __init__.py
+│   ├── catalog.py
+│   ├── customer.py
+│   ├── billing.py
+│   └── utils.py
+├── tests/
+│   ├── __init__.py
+│   ├── test_billing.py
+│   └── test_customer.py
+├── .gitignore
+├── LICENSE
+├── README.md
+├── main.py
+└── requirements.txt
